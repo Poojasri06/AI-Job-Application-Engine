@@ -1,0 +1,6 @@
+{
+  "name": "AutoApply Playwright - ATS Automation Engine",
+  "description": "Production-ready Playwright Python automation engine and interactive testbench for ATS job boards like Greenhouse and Lever, featuring smart selector heuristics, anti-bot mitigation, and human-in-the-loop verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
